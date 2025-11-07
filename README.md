@@ -40,3 +40,4 @@ coding!
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
 - Yuhang Zhou: [GitHub](https://github.com/zhou0244) / [LinkedIn](https://www.linkedin.com/in/yuhang-zhou-170b21148/)
+- Andrew Smith: [GitHub](https://github.com/meuzishun) / [LinkedIn](https://www.linkedin.com/in/andrew-sm1th/)
