@@ -45,3 +45,4 @@ coding!
 - Myron Holmes: [GitHub](https://github.com/MyronHolmes) / [LinkedIn](https://www.linkedin.com/in/myron-holmes/)
 - Jose Cruz: [GitHub](https://github.com/Cruz3196) / [LinkedIn](https://www.linkedin.com/in/jose-cruz-6056322b3/)
 - Gursimran [GitHub](https://github.com/Gursimranb127) / [LinkedIn](https://www.linkedin.com/in/gursimransinghonly)
+- Margaret Wu: [Github](https://github.com/margaretcwu) / [LinkedIn](https://www.linkedin.com/in/margaretcwu)
